@@ -1,0 +1,111 @@
+<!--<?xml version="1.0" encoding="utf-8"?>-->
+<!--<layout xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--    xmlns:app="http://schemas.android.com/apk/res-auto"-->
+<!--    xmlns:tools="http://schemas.android.com/tools">-->
+
+<!--    <data>-->
+
+<!--    </data>-->
+
+<!--    <LinearLayout-->
+<!--        android:id="@+id/main"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent"-->
+<!--        android:orientation="vertical"-->
+<!--        tools:context=".MainActivity">-->
+
+<!--        <ImageView-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:src="@drawable/conversor_romanos"-->
+<!--            android:adjustViewBounds="true"/>-->
+
+<!--        <TextView-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:text="@string/numero"-->
+<!--            android:textSize="20sp"-->
+<!--            android:padding="15dp"-->
+<!--            android:textColor="@color/black" />-->
+
+<!--        <EditText-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:padding="15dp"-->
+<!--            android:hint="@string/numeroPista"-->
+<!--            android:textColor="@color/black"-->
+<!--            android:textSize="20sp"-->
+<!--            android:inputType="number"-->
+<!--            android:id="@+id/your_age"/>-->
+
+<!--        <TextView-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:text=""-->
+<!--            android:textSize="20sp"-->
+<!--            android:padding="15dp"-->
+<!--            android:textColor="@color/black"-->
+<!--            android:gravity="center_horizontal"-->
+<!--            android:id="@+id/result_text"/>-->
+
+<!--        <Button-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:text="@string/calcular"-->
+<!--            android:textSize="20sp"-->
+<!--            android:layout_margin="20dp"-->
+<!--            android:id="@+id/button"/>-->
+
+<!--    </LinearLayout>-->
+<!--</layout>-->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:orientation="vertical"
+android:layout_width="match_parent"
+android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:scaleType="centerCrop"
+        android:src="@drawable/conversor_romanos" />
+
+<LinearLayout
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="24dp">
+
+    <TextView
+        android:id="@+id/txtNumero"
+        android:text="@string/numero"
+        android:textSize="18sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="24dp" />
+    <EditText
+        android:id="@+id/editNumero"
+        android:hint="@string/numeroPista"
+        android:inputType="number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="24dp" />
+
+    <Button
+        android:id="@+id/btnConvertir"
+        android:text="@string/calcular"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="24dp" />
+
+    <TextView
+        android:id="@+id/txtResultado"
+        android:text="@string/numeroConvertido"
+        android:textSize="18sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="24dp" />
+</LinearLayout>
+</LinearLayout>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">numerosRomanos</string>
+    <string name="numero">Introduce el número decimal que desee transformar: </string>
+    <string name="numeroPista">Número aquí</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="numeroConvertido">El número que has elegido sería %d en números romanos.</string>
+</resources>

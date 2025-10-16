@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="numero">Insert the number you want to transform:</string>
+    <string name="numeroPista">Number here</string>
+    <string name="calcular">CALCULATE</string>
+    <string name="numeroConvertido">The number you have chosen would be %d in roman numbers</string>
+</resources>
