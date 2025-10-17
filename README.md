@@ -125,6 +125,6 @@ app/
 
 💚 Desarrollado con dedicación por estudiantes apasionados por Android 💚  
 📅 *Curso 2024–2025*  
-🎓 *Asignatura: Tecnologías Avanzadas aplicadas a la Docencia*  
+🎓 *Asignatura: Programación multimedia de dispositivos móviles*  
 
 </div>
