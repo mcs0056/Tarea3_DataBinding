@@ -100,14 +100,18 @@ app/
 
 ## 📸 **Capturas de pantalla**
 
+<div align="center">
+
 ### 🏠 Pantalla principal  
-![Pantalla principal](./resources/pantalla_principal.png)
+<img src="./resources/pantalla_principal.png" width="300"/>
 
 ### 🔢 Ejemplo de conversión  
-![Ejemplo de conversión](./resources/ejemplo_conversion.png)
+<img src="./resources/ejemplo_conversion.png" width="300"/>
 
 ### 🌐 Versión en inglés  
-![Versión en inglés](./resources/version_ingles.png)
+<img src="./resources/version_ingles.png" width="300"/>
+
+</div>
 
 ---
 
