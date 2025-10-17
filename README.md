@@ -103,11 +103,11 @@ app/
 <div align="center">
 
 <table>
+<tr>
 <td align="center">
 <img src="./resources/ejemplo_conversion.png" width="300"/><br/>
 <sub><b>🔢 Ejemplo de conversión</b></sub>
 </td>
-<tr>
 <td align="center">
 <img src="./resources/pantalla_principal.png" width="300"/><br/>
 <sub><b>🏠 Pantalla principal</b></sub>
