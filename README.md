@@ -126,7 +126,7 @@ app/
 ## 🚀 **Cómo ejecutar el proyecto**
 1. Clona el repositorio:  
    ```bash
-   git clone https://github.com/usuario/conversor-romanos.git
+   git clone https://github.com/mcs0056/Tarea3_DataBinding
    ```
 2. Abre el proyecto en **Android Studio**.  
 3. Ejecuta la app en un **emulador** o **dispositivo físico**.  
