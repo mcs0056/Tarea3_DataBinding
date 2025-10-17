@@ -123,7 +123,6 @@ app/
 
 <div align="center">
 
-💚 Desarrollado con dedicación por estudiantes apasionados por Android 💚  
 📅 *Curso 2024–2025*  
 🎓 *Asignatura: Programación multimedia de dispositivos móviles*  
 
