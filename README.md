@@ -108,7 +108,7 @@ app/
 <img src="./resources/ejemplo_conversion.png" width="300"/><br/>
 <sub><b>🔢 Ejemplo de conversión</b></sub>
 </td>
-    ## 📸 **Capturas de pantalla**
+## 📸 **Capturas de pantalla**
 
 <div align="center">
 
@@ -122,16 +122,6 @@ app/
 <img src="./resources/ejemplo_conversion.png" width="300"/><br/>
 <sub><b>🔢 Ejemplo de conversión</b></sub>
 </td>
-<td align="center">
-<img src="./resources/version_ingles.png" width="300"/><br/>
-<sub><b>🌐 Versión en inglés</b></sub>
-</td>
-</tr>
-</table>
-
-</div>
-
----
 <td align="center">
 <img src="./resources/version_ingles.png" width="300"/><br/>
 <sub><b>🌐 Versión en inglés</b></sub>
