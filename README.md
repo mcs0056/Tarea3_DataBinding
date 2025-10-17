@@ -102,14 +102,23 @@ app/
 
 <div align="center">
 
-### 🏠 Pantalla principal  
-<img src="./resources/pantalla_principal.png" width="300"/>
+<table>
+<tr>
+<td align="center">
+<img src="./resources/pantalla_principal.png" width="300"/><br/>
+<b>Pantalla principal</b>
+</td>
+<td align="center">
+<img src="./resources/ejemplo_conversion.png" width="300"/><br/>
+<b>Ejemplo de conversión</b>
+</td>
+</tr>
+</table>
 
-### 🔢 Ejemplo de conversión  
-<img src="./resources/ejemplo_conversion.png" width="300"/>
+<br/>
 
-### 🌐 Versión en inglés  
-<img src="./resources/version_ingles.png" width="300"/>
+<img src="./resources/version_ingles.png" width="300"/><br/>
+<b>Versión en inglés</b>
 
 </div>
 
