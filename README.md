@@ -68,34 +68,39 @@ El proyecto está implementado en **Java** utilizando **Android Studio**, aplica
 ## Estructura del proyecto
 app/
 └── java/com/sinBinding/numerosromanos/
-├── MainActivity.java
-├── Conversor.java
-└── res/layout/
-└── activity_main.xml
-└── res/values/
-└── strings.xml
-└── res/values-en/
-└── strings.xml
-
+├── MainActivity.java  
+├── Conversor.java  
+└── res/layout/  
+└── activity_main.xml  
+└── res/values/  
+└── strings.xml  
+└── res/values-en/  
+└── strings.xml  
 
 app/
 └── java/com/conBinding/numerosromanos/
-├── MainViewModel.java
-├── MainActivity.java
-├── Conversor.java
-└── res/layout/
-└── activity_main.xml
-└── res/values/
-└── strings.xml
-└── res/values-en/
-└── strings.xml
+├── MainViewModel.java  
+├── MainActivity.java  
+├── Conversor.java  
+└── res/layout/  
+└── activity_main.xml  
+└── res/values/  
+└── strings.xml  
+└── res/values-en/  
+└── strings.xml  
 
 ---
 
 ## Capturas de pantalla
-> - Pantalla principal  
-> - Ejemplo de conversión  
-> - Versión en inglés  
+
+### 📱 Pantalla principal
+![Pantalla principal](./resources/pantalla_principal.png)
+
+### 🔢 Ejemplo de conversión
+![Ejemplo de conversión](./resources/ejemplo_conversion.png)
+
+### 🇬🇧 Versión en inglés
+![Versión en inglés](./resources/version_ingles.png)
 
 ---
 
@@ -103,6 +108,6 @@ app/
 1. Clona el repositorio desde GitHub:  
    ```bash
    git clone https://github.com/usuario/conversor-romanos.git
-Ábrelo en Android Studio.
-
-Ejecuta el proyecto en un emulador o dispositivo físico.
+   ```
+2. Ábrelo en Android Studio.  
+3. Ejecuta el proyecto en un emulador o dispositivo físico.  
